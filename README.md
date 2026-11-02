@@ -1,3 +1,7 @@
+- [Mono eSIM](https://www.monoesim.app) `https://www.monoesim.app/mcp`
+  [![Mono eSIM MCP connector](https://glama.ai/mcp/connectors/io.github.Andrii-Tiurin/mono-esim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Andrii-Tiurin/mono-esim)
+  🔓 - Travel eSIM data plans for 190+ countries: search, compare, check phone compatibility and get a Stripe checkout link the customer pays.
+
 # Awesome Remote MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
